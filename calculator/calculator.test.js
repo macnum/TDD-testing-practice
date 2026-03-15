@@ -30,3 +30,4 @@ describe(
 	test('divides small number by a large one', () =>
 		expect(divide(80, 1000)).toEqual(0.08)),
 );
+b;
